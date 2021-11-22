@@ -3,9 +3,9 @@
 const path = require('path')
 
 const MYSQL_CONF = {
-  host: 'localhost',
-  user: 'root',
-  password: 'Fscsczz0523.',
+  host: '127.0.0.1',
+  user: 'lspms',
+  password: 'DjFFrcxcw5yG3t8p',
   database: 'lspms'
 }
 
